@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "threejs-demo-18630"
+  },
+  "targets": {
+    "threejs-demo-18630": {
+      "hosting": {
+        "three-demo": [
+          "threejs-demo-18630"
+        ]
+      }
+    }
   }
 }
